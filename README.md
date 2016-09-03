@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/joekrie/the8.png?label=ready&title=Ready)](https://waffle.io/joekrie/the8)
 # The Eight
 [![Build status](https://ci.appveyor.com/api/projects/status/e70qp48brvrdyxlh?svg=true)](https://ci.appveyor.com/project/joekrie/the8)
 
